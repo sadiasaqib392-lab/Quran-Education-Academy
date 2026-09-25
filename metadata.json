@@ -1,0 +1,8 @@
+{
+  "name": "Remix Quran Education Academy",
+  "description": "Online Quran Learning Academy offering Tajweed, Qaida, Hifz, and Islamic studies with direct WhatsApp admission. Contact: 03187779954.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
